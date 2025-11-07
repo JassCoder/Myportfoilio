@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(150, 150, 150)   ;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1px;
+    padding: 1px;
+  }
+.color-title {
+        font-weight: normal;
+        font-size: 32px;
+        color: rgb(255, 255, 255);
+  }
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border: .5px solid rgb(0, 0, 0);
+}
+h1 {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
