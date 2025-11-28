@@ -4,3 +4,17 @@
   text-align: center;
   
 }
+
+.mainCanvas{
+  color: black;
+  border: 2px solid black;
+}
+
+h2 {
+  color: black;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid black;
+}
